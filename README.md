@@ -3,7 +3,7 @@
 A simple script that generates reverse shells using your preferred interface and a random port, then sets up a listener using pwncat.
 
 Dependencies:
-Pwncat
+Pwncat and 
 Netifaces
 
 
