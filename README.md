@@ -1,6 +1,11 @@
 # LazyShell
 
-A simple script that generates reverse shells using your preferred interface and port, then sets up a netcat listener using your specified port.
+A simple script that generates reverse shells using your preferred interface and a random port, then sets up a listener using pwncat.
+
+Dependencies:
+Pwncat
+Netifaces
 
 
-![Image of Shell](https://i.imgur.com/6Ei8IBC.png)
+![Image of Shell](https://i.imgur.com/W5MfU5F.png)
+![Image of Shell](https://i.imgur.com/x9I4GON.png)
