@@ -12,6 +12,3 @@ pip3 install pwncat
 pip3 install netifaces
 
 sudo apt install rlwrap
-
-![Image of Shell](https://i.imgur.com/W5MfU5F.png)
-![Image of Shell](https://i.imgur.com/x9I4GON.png)
