@@ -99,9 +99,9 @@ menu = """
 
   3) Automatic Python Reverse Shell
 
-  4) Authomatic PHP Reverse Shell
+  4) Automatic PHP Reverse Shell
 
-  5) Authomatic Ruby Reverse Shell
+  5) Automatic Ruby Reverse Shell
 
   6) List All Reverse Shell's
   ----------------------------------
